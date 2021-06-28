@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cricket Temperature</string>
+    <string name="explanation">Do you know we can determine the temperature outside by measurig the chirps cricket makes? Just count the number od chirps cricket make in 25 seconds and write it down below..</string>
+    <string name="etHint">Number of chirps in 25 seconds</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="imageDescription">Image</string>
+</resources>
